@@ -38,4 +38,4 @@
  * 再次启动Notebook：jupyter notebook
  
 		如果你开启了防火墙，配置打开8080端口。
-		使用浏览器访问：https://your_domain_or_IP:8080
+		使用浏览器访问：https://your_domain_or_IP:8989
