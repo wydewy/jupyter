@@ -10,9 +10,10 @@
 * 安装jupyter
 
 		sudo pip install jupyter  运行：jupyter notebook
-			
+
+ -------------------------			
  * 配置
- -------------------------
+ 
  		jupyter notebook --generate-config
 		生成的配置文件位于 ~/.jupyter/jupyter_notebook_config.py。
 		生成自签名SSL证书：
