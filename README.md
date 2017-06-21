@@ -21,6 +21,7 @@
 		生成一个密码hash：
 		python -c "import IPython;print(IPython.lib.passwd())"
 	
+ -------------------------
  * 编辑配置文件：vim ~/jupyter/jupyter_notebook_config.py
  	
 		c = get_config()
@@ -32,6 +33,7 @@
 		c.NotebookApp.port = 8989
 		c.NotebookApp.open_browser = False
 
+ -------------------------
  * 再次启动Notebook：jupyter notebook
  
 		如果你开启了防火墙，配置打开8080端口。
